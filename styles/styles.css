@@ -1,0 +1,390 @@
+body {
+	margin: 0px 0px 0px 0px;
+	background-color: #dcdfe0;
+	text-align: center;
+   }
+	
+#inside a {
+text-decoration: none;
+}
+
+#inside a:link {
+	color: #006699;
+	}
+
+#inside a:visited {
+	color: #636466;
+	}
+
+#inside a:active {
+	color: #006699;
+	}
+
+#inside a:hover {
+	text-decoration: underline;
+	}
+
+#right a {
+text-decoration: none;
+}
+
+#right a:link {
+	color: #006699;
+	}
+
+#right a:visited {
+	color: #636466;
+	}
+
+#right a:active {
+	color: #006699;
+	}
+
+#right a:hover {
+	text-decoration: underline;
+	}	
+	
+#navigation a:link {
+color: #ffffff;
+text-decoration: none;
+}
+
+#navigation a:hover {
+color: #000000;
+text-decoration: none;
+} 
+
+
+
+h1, h2, h3 {
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+	}
+
+#container {
+margin-right: auto;
+	margin-left: auto;
+margin-top: 0px;
+	text-align: left;
+	padding: 0px 0px 0px 0px;
+	width: 800px;
+	background-color: #dcdfe0;
+	}
+
+#banner {
+	background-color: #FFFFFF;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	width: 800px;
+	}
+
+#center {
+position: relative;	
+float: left;
+	margin-right: auto;
+	margin-left: auto;
+        margin-bottom: 0px;
+	text-align: left;
+	padding: 0px 0px 0px 0px;
+	width: 700px;
+	border: 3px solid #006699;
+	background-color: #FFFFFF;
+	}
+	
+.content {
+	float: left;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: small;
+	}
+
+#navigation ul
+{
+padding: .2em 0;
+margin: 0;
+list-style-type: none;
+background-color: #006699;
+color: #ffffff;
+width: 100%;
+font: bold 85% arial, helvetica, sans-serif;
+text-align: center;
+}
+
+.navigation li { display: inline; }
+
+.navigation li a
+{
+text-decoration: none;
+background-color: #006699;
+color: #FFFFFF;
+padding: .2em 1em;
+
+}
+
+.navigation li a:hover
+{
+background-color: #006699;
+color: #000000;
+}
+	
+	
+#left {
+		float: left;
+	width: 180px;
+	background-color: #FFFFFF;
+	}
+	
+#inside {
+position: relative;
+float: left;
+width: 450px;
+margin: 15px 0px 15px 0px;		
+line-height: 140%;
+	}
+	
+img.floatleft { float: left;
+margin: 10px 20px 4px 0px;
+ }	
+ 
+ img.floatright { float: right;
+margin: 10px 0px 4px 10px;
+ }	
+
+.content {
+	align: left;
+	padding: 15px 15px 5px 50px;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	list-line-height: 100%;
+	list-style-type: circle;
+	}
+
+
+.content p {
+	color: #000000;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	font-weight: normal;
+	line-height: 150%;
+	text-align: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+
+.content p.bio {
+	color: #000000;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	font-weight: normal;
+	line-height: 150%;
+	text-align: left;
+	margin: 10px 0px 0px 0px;
+	padding: 0px 0px 5px 0px;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: #C3C8CD;
+	margin-bottom: 10px;
+	}	
+
+.content blockquote {
+	line-height: 150%;
+	}
+
+
+.content ul {
+	line-height: 140%;
+	list-style-type: circle;
+	padding: 0px 0px 5px 15px;
+	}
+
+.content h1 {
+	color: #006699;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: medium;
+	line-height: 130%;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	
+	}
+
+.content h2 {
+	color: #514826;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 10px;
+	}
+
+.content h3 {
+	color: #006699;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: medium;
+	line-height: 130%;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	
+	}
+
+.content h4 {
+	color: #868F98;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: small;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 3px;
+	}
+
+
+.sidebar {
+	padding: 15px;
+	}
+
+#season ul {
+	line-height: 140%;
+	list-style-type: circle;
+	padding: 0px 0px 10px 0px;
+	}
+
+#right {
+position: relative;    
+float: right;
+	width: 110px;
+	line-height: 140%;
+    vertical-align: top;
+    margin: 30px 5px 15px 5px;
+	padding: 5px 15px 5px 15px;
+	border-top-style:solid;
+	border-top-width:4px;
+	border-top-color:#006699;
+	border-bottom-style:solid;
+	border-bottom-width:2px;
+	border-bottom-color:#006699;
+	background-color: #dcdfe0;
+	font-color: #000000;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	}
+	
+	.right h2 {
+	color: #868F98;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 10px;
+	}
+
+.right h3 {
+	color: #006699;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: medium;
+	line-height: 130%;
+	text-align: left;
+	font-weight: bold;
+	margin-bottom: 10px;
+	
+	}
+
+.right p {
+	color: #000000;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: x-small;
+	font-weight: normal;
+	line-height: 150%;
+	text-align: left;
+	margin-bottom: 10px;
+	}
+
+
+#calendar table {
+	padding: 2px;
+	border-collapse: collapse;
+	border: 0px;
+	width: 100%;
+	}
+
+#calendar caption {
+	color: #666666;
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: x-small;
+	
+	text-align: left;
+	font-weight: bold;
+	
+	
+	
+	letter-spacing: .3em;
+	}
+
+#calendar th {
+	text-align: center;
+	font-weight: normal;
+	}
+
+#calendar td {
+	text-align: center;
+	}
+
+.sidebar h2 {
+	color: #666666;
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: x-small;
+	
+	text-align: left;
+	font-weight: bold;
+	
+	
+  	
+	letter-spacing: .3em;
+	}
+
+.sidebar ul {
+	padding-left: 0px;
+	margin: 0px;
+	margin-bottom: 30px;
+	}
+
+.sidebar li {
+	color: #666666;
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: x-small;
+	text-align: left;
+	line-height: 110%;
+	
+	
+	
+	margin-top: 10px;
+	list-style-type: none;
+	}
+
+.sidebar img {
+        text-align: left;
+	margin-bottom: 15px;
+	}
+
+.photo {
+	text-align: left;
+	margin-bottom: 20px;
+	}
+
+.link-note {
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: x-small;
+	line-height: 150%;
+	text-align: left;
+	padding: 2px;
+	margin-bottom: 15px;
+	}
+
+
+</style>

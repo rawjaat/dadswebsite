@@ -1,0 +1,39 @@
+A:hover {color:#CC0000}
+td { font-size: 11pt;
+font-family: Verdana, Arial, Helvetica, sans-serif}
+.inour { font-size: 10pt;
+font-family: Arial, Helvetica, sans-serif;
+color: #003366;
+font-weight: bold}
+.things { font-size: 10pt;
+font-family: Arial, Helvetica, sans-serif;
+color: #003366}
+.headline { font-size: 13pt;
+font-family: Georgia, Times New Roman, Times, serif;
+color: #003366}
+.bodytext { font-size: 9pt;
+font-family: Arial, Helvetica, sans-serif;
+color: #000000}
+.breadcrumb { font-size: 8pt;
+font-family: Arial, Helvetica, sans-serif;
+color: #330000}
+.footer:hover {color:#FFCC66}
+.footer { font-size: 7pt;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 110%;
+color: #FFFFFF}
+.bottnav { font-size: 8pt;
+font-family: Arial, Helvetica, sans-serif;
+color: #000000}
+.subnav:hover {color:#FFCC66}
+.subnav { font-size: 8pt;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+color: #CCCCCC;
+line-height: 110%}
+.subhead { font-size: 12pt; 
+	font-family: Georgia, Times New Roman, Times, serif; 
+	color: #000033; 
+	font-weight: bold; 
+	line-height: 118%}
+
